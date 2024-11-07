@@ -111,7 +111,8 @@ print(plan)
 ```
 # Output:
 ```
-['move_A_to_B', 'move_B_to_C']
+![image](https://github.com/user-attachments/assets/8126b13c-9328-4e33-be25-dc4bf2c75fc5)
+
 ```
 
 # Please Prepare Solution or Definition For the method find_plan(initial_state, goal_state, actions)
