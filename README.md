@@ -110,10 +110,8 @@ plan = find_plan(initial_state, goal_state, actions)
 print(plan)
 ```
 # Output:
-```
 ![image](https://github.com/user-attachments/assets/8126b13c-9328-4e33-be25-dc4bf2c75fc5)
 
-```
 
 # Please Prepare Solution or Definition For the method find_plan(initial_state, goal_state, actions)
 <h3>You Can use any of the searching Strategies for planning and executing a sequence of actions.<br> You can also look in to the Code given in the Repository.</h3>
